@@ -11,8 +11,8 @@
         "nkro": true
     },
     "matrix_pins": {
-        "cols": ["C2", "C2", "C2", "C2"],
-        "rows": ["D1", "D1"]
+        "rows": ["GP28", "GP29"],
+        "cols": ["GP2", "GP3", "GP4", "GP5"]
     },
     "url": "",
     "usb": {
